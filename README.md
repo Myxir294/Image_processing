@@ -12,7 +12,7 @@ The program can be run with execution arguments, for example:
   -i Winnie.ppm -p 90 -d -o Winnie2.ppm - tresholding with zeroing 90% of grayscale  
   -i Winnie.ppm -m -s -o Winnie2.pgm - monochromatic conversion  
   -i Winnie.ppm -m -r -n Winnie2.ppm - makes a negative but processes only the red colour  
-  -i Winnie.ppm -k -d - makes an outline, does not save the outcome  
+  -i Winnie.ppm -k -d - makes an outline, does not save the outcome (should display it though, if it does not add '-o filename')   
   
 This was my first ever relatively robust program and the code may be a little "sloppy" or hard to read, but it does the job and I made efforts to make it a bit more comprehensible. Although it is not under any further development at the moment, it could be nicely improved, for example by allowing to process different file formats and do more operations, like erasing the background of the image.
 
