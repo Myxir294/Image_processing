@@ -14,6 +14,6 @@ The program can be run with execution arguments, for example:
   -i Winnie.ppm -m -r -n Winnie2.ppm - makes a negative but processes only the red colour  
   -i Winnie.ppm -k -d - makes an outline, does not save the outcome  
   
-This was my first ever robust program and the code may be a little "sloppy" or hard to read, but it does the job and I made efforts to make it a bit more comprehensible. Although it is not under any further development at the moment, it could be nicely improved, for example by allowing to process different file formats and do more operations, like erasing the background of the image.
+This was my first ever relatively robust program and the code may be a little "sloppy" or hard to read, but it does the job and I made efforts to make it a bit more comprehensible. Although it is not under any further development at the moment, it could be nicely improved, for example by allowing to process different file formats and do more operations, like erasing the background of the image.
 
   
